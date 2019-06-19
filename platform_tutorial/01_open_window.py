@@ -34,9 +34,7 @@ class MyGame(arcade.Window):
 
 def main():
     """ Main method """
-    window = MyGame()
-    window.setup()
-    arcade.run()
+    print("hello")
 
 
 if __name__ == "__main__":
